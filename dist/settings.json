@@ -1,0 +1,20 @@
+{
+    "HOST_IP" : "110.39.13.195",
+    "MAX_WAIT": 3,
+    "MIN_WAIT": 1,
+    "PROXY_SETTINGS":
+    {
+        "HOST"      : "geo.iproyal.com",
+        "PORT"      : "12323",
+        "USER"      : "Interior",
+        "PASSWORD"  : "3lv2CKYiEpRXzc4_country-nl"
+    },
+    "keywords":
+    [
+        {
+            "keyword": "LED verlichting",
+            "url":"https://www.bol.com/nl/nl/p/b-k-licht-led-strip-2-meter-rgb-auto-usb-afstandsbediening-zelfklevend-voor-tv-pc-gaming-accesoires/9200000122108472/",
+            "search" : true
+        }
+    ]
+}
